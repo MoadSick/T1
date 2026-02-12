@@ -16,10 +16,10 @@ Marco Antonio Guadalupe Vargas Ruiz
 
 ### Compilacion
 Desde la consola, ubicarse en la carpeta del proyecto y ejecutar:
-g++ main.cpp Procesos.cpp Analisis.cpp Registro.cpp -o MonitorProcesos.exe -static -static-libgcc -static-libstdc++
+* g++ main.cpp Procesos.cpp Analisis.cpp Registro.cpp -o MonitorProcesos.exe -static -static-libgcc -static-libstdc++
 
 Ejecucion
-MonitorProcesos.exe
+* MonitorProcesos.exe
 
 ### Entrada esperada
 El programa solicita al usuario:
