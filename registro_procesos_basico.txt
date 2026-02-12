@@ -1,0 +1,305 @@
+===========================================
+        MONITOR DE PROCESOS C++
+===========================================
+Fecha y hora: 2026-02-12 00:44:44
+Modo de analisis: Basico
+Total de procesos detectados: 270
+
+========== LISTA COMPLETA ==========
+
+PID     NOMBRE                   MEMORIA(MB) SOSPECHOSO  
+---------------------------------------------------------------
+0       System Idle Process      0.01        NO          
+4       System                   0.17        NO          
+188     Secure System            0.01        NO          
+228     Registry                 0.00        NO          
+820     smss.exe                 0.00        NO          
+960     csrss.exe                0.00        NO          
+1100    wininit.exe              0.00        NO          
+1108    csrss.exe                0.00        NO          
+1200    winlogon.exe             0.00        NO          
+1256    services.exe             0.00        NO          
+1276    LsaIso.exe               0.00        NO          
+1284    lsass.exe                0.00        NO          
+1420    svchost.exe              0.00        NO          
+1452    fontdrvhost.exe          0.00        NO          
+1460    fontdrvhost.exe          0.00        NO          
+1552    svchost.exe              0.00        NO          
+1600    svchost.exe              0.00        NO          
+1676    dwm.exe                  0.01        NO          
+1780    svchost.exe              0.00        NO          
+1876    svchost.exe              0.00        NO          
+1908    svchost.exe              0.00        NO          
+2020    svchost.exe              0.00        NO          
+2028    svchost.exe              0.00        NO          
+1352    svchost.exe              0.00        NO          
+1436    svchost.exe              0.00        NO          
+1092    svchost.exe              0.00        NO          
+2060    svchost.exe              0.00        NO          
+2120    svchost.exe              0.00        NO          
+2180    NVDisplay.Container.exe  0.00        NO          
+2348    svchost.exe              0.00        NO          
+2392    AsusCertService.exe      0.00        NO          
+2456    svchost.exe              0.00        NO          
+2472    svchost.exe              0.00        NO          
+2464    svchost.exe              0.00        NO          
+2568    svchost.exe              0.00        NO          
+2588    svchost.exe              0.00        NO          
+2668    svchost.exe              0.00        NO          
+2700    svchost.exe              0.00        NO          
+2708    svchost.exe              0.00        NO          
+2768    Memory Compression       0.01        NO          
+2916    svchost.exe              0.00        NO          
+2952    svchost.exe              0.00        NO          
+3008    svchost.exe              0.00        NO          
+3052    atkexComSvc.exe          0.00        NO          
+2332    svchost.exe              0.00        NO          
+3176    svchost.exe              0.00        NO          
+3320    NVDisplay.Container.exe  0.01        NO          
+3524    svchost.exe              0.00        NO          
+3632    WmiPrvSE.exe             0.00        NO          
+3804    svchost.exe              0.00        NO          
+3912    WmiPrvSE.exe             0.00        NO          
+3984    svchost.exe              0.00        NO          
+4032    svchost.exe              0.00        NO          
+4128    svchost.exe              0.00        NO          
+4348    svchost.exe              0.00        NO          
+4356    svchost.exe              0.00        NO          
+4528    svchost.exe              0.00        NO          
+4556    svchost.exe              0.00        NO          
+4636    spoolsv.exe              0.00        NO          
+4664    svchost.exe              0.00        NO          
+4708    svchost.exe              0.00        NO          
+4956    svchost.exe              0.00        NO          
+4964    svchost.exe              0.01        NO          
+4972    svchost.exe              0.00        NO          
+4980    svchost.exe              0.00        NO          
+4988    svchost.exe              0.00        NO          
+4996    svchost.exe              0.00        NO          
+5096    avp.exe                  0.02        NO          
+4212    nvcontainer.exe          0.00        NO          
+4256    remoting_host.exe        0.00        NO          
+4264    GameSDK.exe              0.00        NO          
+4276    ArmouryCrate.Service.exe 0.00        NO          
+4328    ROGLiveService.exe       0.00        NO          
+4344    logi_lamparray_service.exe0.00        NO          
+4624    jhi_service.exe          0.00        NO          
+5160    AsusFanControlService.exe0.00        NO          
+5188    WMIRegistrationService.exe0.00        NO          
+5232    RstMwService.exe         0.00        NO          
+5300    lghub_updater.exe        0.00        NO          
+5376    LightingService.exe      0.00        NO          
+5432    OfficeClickToRun.exe     0.01        NO          
+5540    dasHost.exe              0.00        NO          
+5840    svchost.exe              0.00        NO          
+7012    remoting_host.exe        0.00        NO          
+7360    nvcontainer.exe          0.00        NO          
+7380    nvcontainer.exe          0.00        NO          
+7484    unsecapp.exe             0.00        NO          
+7748    Aac3572DramHal_x86.exe   0.00        NO          
+8092    ArmouryCrate.UserSessionHelper.exe0.01        NO          
+8048    conhost.exe              0.00        NO          
+8228    nvsphelper64.exe         0.00        NO          
+8348    NVIDIA Overlay.exe       0.04        NO          
+8864    extensionCardHal_x86.exe 0.00        NO          
+8924    AacKingstonDramHal_x86.exe0.00        NO          
+8056    NVIDIA Overlay.exe       0.01        NO          
+7816    svchost.exe              0.00        NO          
+8548    NVIDIA Overlay.exe       0.00        NO          
+8280    nvcontainer.exe          0.01        NO          
+8892    NVIDIA Overlay.exe       0.00        NO          
+7792    svchost.exe              0.00        NO          
+7428    svchost.exe              0.00        NO          
+9284    gamingservices.exe       0.00        NO          
+9292    gamingservicesnet.exe    0.00        NO          
+9328    svchost.exe              0.00        NO          
+9356    svchost.exe              0.00        NO          
+9388    svchost.exe              0.00        NO          
+9456    taskhostw.exe            0.00        NO          
+9468    sihost.exe               0.00        NO          
+9588    svchost.exe              0.00        NO          
+9688    AcPowerNotification.exe  0.00        NO          
+9820    ArmourySocketServer.exe  0.00        NO          
+10520   avpui.exe                0.00        NO          
+10828   svchost.exe              0.00        NO          
+11156   NVIDIA Overlay.exe       0.01        NO          
+10384   svchost.exe              0.00        NO          
+10788   svchost.exe              0.00        NO          
+11592   avp.exe                  0.00        NO          
+11848   svchost.exe              0.00        NO          
+11772   svchost.exe              0.00        NO          
+11812   svchost.exe              0.00        NO          
+12368   explorer.exe             0.05        NO          
+12560   AacKingstonDramHal_x64.exe0.00        NO          
+12932   asus_framework.exe       0.00        NO          
+13028   AggregatorHost.exe       0.00        NO          
+13092   CrossDeviceResume.exe    0.01        NO          
+13180   AacAmbientLighting.exe   0.00        NO          
+13344   svchost.exe              0.00        NO          
+14016   svchost.exe              0.00        NO          
+14144   CrossDeviceService.exe   0.01        NO          
+14328   SearchHost.exe           0.01        NO          
+13500   StartMenuExperienceHost.exe0.02        NO          
+13716   Widgets.exe              0.00        NO          
+14368   svchost.exe              0.00        NO          
+14548   svchost.exe              0.00        NO          
+14976   nvfvsdksvc_x64.exe       0.00        NO          
+15156   FvContainer.System.exe   0.00        NO          
+15180   FvContainer.exe          0.00        NO          
+15192   PresentMon_x64.exe       0.00        NO          
+15244   nvrla.exe                0.00        NO          
+15264   svchost.exe              0.00        NO          
+15660   SearchIndexer.exe        0.00        NO          
+15788   ctfmon.exe               0.00        NO          
+15860   TextInputHost.exe        0.01        NO          
+16004   msedgewebview2.exe       0.01        NO          
+16120   msedgewebview2.exe       0.00        NO          
+15416   msedgewebview2.exe       0.01        NO          
+2264    msedgewebview2.exe       0.00        NO          
+16064   msedgewebview2.exe       0.00        NO          
+5276    MidiSrv.exe              0.00        NO          
+16528   msedgewebview2.exe       0.01        NO          
+17120   RuntimeBroker.exe        0.00        NO          
+12648   ArmouryHtmlDebugServer.exe0.00        NO          
+9480    asus_framework.exe       0.00        NO          
+16104   SecurityHealthSystray.exe0.00        NO          
+11260   SecurityHealthService.exe0.00        NO          
+10072   svchost.exe              0.00        NO          
+12632   asus_framework.exe       0.00        NO          
+17968   lghub_system_tray.exe    0.01        NO          
+18024   lghub_agent.exe          0.01        NO          
+16744   steam.exe                0.01        NO          
+10880   unsecapp.exe             0.00        NO          
+13144   steamwebhelper.exe       0.02        NO          
+18424   EpicGamesLauncher.exe    0.02        NO          
+7432    steamservice.exe         0.00        NO          
+15028   steamwebhelper.exe       0.00        NO          
+18528   steamwebhelper.exe       0.01        NO          
+18896   steamwebhelper.exe       0.00        NO          
+18908   steamwebhelper.exe       0.00        NO          
+19248   steamwebhelper.exe       0.04        NO          
+19204   Overwolf.exe             0.02        NO          
+12192   OverwolfBrowser.exe      0.00        NO          
+8680    OverwolfBrowser.exe      0.00        NO          
+1976    OverwolfBrowser.exe      0.00        NO          
+19464   OverwolfBrowser.exe      0.00        NO          
+20104   OverwolfHelper.exe       0.00        NO          
+20232   OverwolfHelper64.exe     0.00        NO          
+19832   EpicWebHelper.exe        0.01        NO          
+5348    EpicWebHelper.exe        0.00        NO          
+10756   svchost.exe              0.00        NO          
+8112    svchost.exe              0.00        NO          
+8320    svchost.exe              0.00        NO          
+5748    svchost.exe              0.00        NO          
+16792   svchost.exe              0.00        NO          
+17564   svchost.exe              0.00        NO          
+17848   svchost.exe              0.00        NO          
+21196   steamwebhelper.exe       0.00        NO          
+21316   backgroundTaskHost.exe   0.00        NO          
+4772    RuntimeBroker.exe        0.00        NO          
+14180   ApplicationFrameHost.exe 0.01        NO          
+20024   SystemSettings.exe       0.00        NO          
+18516   svchost.exe              0.00        NO          
+20136   svchost.exe              0.00        NO          
+20592   svchost.exe              0.00        NO          
+17028   svchost.exe              0.00        NO          
+12340   svchost.exe              0.00        NO          
+22848   OverwolfBrowser.exe      0.01        NO          
+12132   svchost.exe              0.00        NO          
+1140    msedge.exe               0.04        NO          
+4208    msedge.exe               0.00        NO          
+22332   msedge.exe               0.03        NO          
+22224   msedge.exe               0.01        NO          
+20484   msedge.exe               0.00        NO          
+21676   msedge.exe               0.03        NO          
+22360   msedge.exe               0.01        NO          
+22192   msedge.exe               0.01        NO          
+23304   msedge.exe               0.01        NO          
+22728   cmd.exe                  0.00        SI          
+22232   conhost.exe              0.00        NO          
+23180   plugins_nms.exe          0.00        NO          
+21056   msedge.exe               0.00        NO          
+21208   msedge.exe               0.00        NO          
+5308    msedge.exe               0.01        NO          
+5032    dllhost.exe              0.00        NO          
+17148   msedge.exe               0.00        NO          
+1384    RuntimeBroker.exe        0.00        NO          
+13956   UIEOrchestrator.exe      0.94        NO          
+24264   svchost.exe              0.00        NO          
+21900   msedge.exe               0.02        NO          
+8288    AppActions.exe           0.00        NO          
+24292   WmiPrvSE.exe             0.00        NO          
+5564    WidgetService.exe        0.00        NO          
+14676   msedge.exe               0.04        NO          
+25444   RuntimeBroker.exe        0.00        NO          
+22768   backgroundTaskHost.exe   0.00        NO          
+11144   svchost.exe              0.00        NO          
+24572   svchost.exe              0.00        NO          
+22772   dllhost.exe              0.00        NO          
+6644    dllhost.exe              0.00        NO          
+21288   dllhost.exe              0.00        NO          
+24816   dllhost.exe              0.00        NO          
+20944   dllhost.exe              0.00        NO          
+4756    dllhost.exe              0.00        NO          
+3428    dllhost.exe              0.00        NO          
+10692   backgroundTaskHost.exe   0.00        NO          
+13352   RuntimeBroker.exe        0.00        NO          
+25576   WindowsPackageManagerServer.exe0.00        NO          
+23864   ShellHost.exe            0.01        NO          
+24484   msedgewebview2.exe       0.00        NO          
+23348   svchost.exe              0.00        NO          
+2888    svchost.exe              0.00        NO          
+9484    svchost.exe              0.00        NO          
+25056   svchost.exe              0.00        NO          
+2340    msedge.exe               0.02        NO          
+12676   backgroundTaskHost.exe   0.00        NO          
+20288   RuntimeBroker.exe        0.00        NO          
+14208   smartscreen.exe          0.00        NO          
+21992   Code.exe                 0.02        NO          
+23772   Code.exe                 0.00        NO          
+24024   Code.exe                 0.01        NO          
+22284   Code.exe                 0.00        NO          
+25232   Code.exe                 0.04        NO          
+16772   Code.exe                 0.02        NO          
+17288   Code.exe                 0.01        NO          
+21768   Code.exe                 0.01        NO          
+24552   Code.exe                 0.01        NO          
+2272    backgroundTaskHost.exe   0.00        NO          
+20780   RuntimeBroker.exe        0.00        NO          
+21688   svchost.exe              0.00        NO          
+18616   svchost.exe              0.00        NO          
+14588   audiodg.exe              0.00        NO          
+2964    powershell.exe           0.01        SI          
+1852    conhost.exe              0.00        NO          
+25280   OpenConsole.exe          0.00        NO          
+25004   WindowsTerminal.exe      0.01        NO          
+8108    msedge.exe               0.02        NO          
+2216    msedge.exe               0.00        NO          
+9664    MonitorProcesos.exe      0.00        NO          
+13252   SearchProtocolHost.exe   0.00        NO          
+20140   cmd.exe                  0.00        SI          
+10972   tasklist.exe             0.00        NO          
+
+
+========== PROCESOS SOSPECHOSOS ==========
+
+PID: 22728
+Nombre: cmd.exe
+Memoria: 0.00 MB
+Razon: Proceso con nombre potencialmente riesgoso
+Nivel de riesgo: Alto
+-------------------------------------------
+PID: 2964
+Nombre: powershell.exe
+Memoria: 0.01 MB
+Razon: Proceso con nombre potencialmente riesgoso
+Nivel de riesgo: Alto
+-------------------------------------------
+PID: 20140
+Nombre: cmd.exe
+Memoria: 0.00 MB
+Razon: Proceso con nombre potencialmente riesgoso
+Nivel de riesgo: Alto
+-------------------------------------------
+
+Total de procesos sospechosos: 3
