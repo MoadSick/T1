@@ -27,9 +27,9 @@ El programa solicita al usuario:
 - Nombre del archivo de salida (sin extensión, el programa agrega automáticamente .txt)
 
 Ejemplo:
-Modo de análisis: 2
-Nombre del archivo: reporte
-Genera: reporte.txt
+* Modo de análisis: 2
+* Nombre del archivo: reporte
+* Genera: reporte.txt
 
 ### Enfoque tecnico
 Este proyecto utiliza el comando del sistema [tasklist /FO CSV] para obtener procesos reales activos en Windows.
